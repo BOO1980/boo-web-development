@@ -1,0 +1,3 @@
+[submodule "programming/boo-javascript"]
+	path = programming/boo-javascript
+	url = https://github.com/BOO1980/boo-javascript.git
