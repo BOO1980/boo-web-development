@@ -7,3 +7,6 @@
 [submodule "programming/boo-css3"]
 	path = programming/boo-css3
 	url = https://github.com/BOO1980/boo-css3.git
+[submodule "programming/boo-html"]
+	path = programming/boo-html
+	url = https://github.com/BOO1980/boo-html.git
