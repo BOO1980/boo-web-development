@@ -13,3 +13,6 @@
 [submodule "programming/boo-html5"]
 	path = programming/boo-html5
 	url = https://github.com/BOO1980/boo-html5.git
+[submodule "frameworks/boo-.net"]
+	path = frameworks/boo-.net
+	url = https://github.com/BOO1980/boo-.net.git
