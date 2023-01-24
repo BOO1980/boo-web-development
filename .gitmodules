@@ -16,3 +16,6 @@
 [submodule "frameworks/boo-.net"]
 	path = frameworks/boo-.net
 	url = https://github.com/BOO1980/boo-.net.git
+[submodule "programming/boo-typescript"]
+	path = programming/boo-typescript
+	url = https://github.com/BOO1980/boo-typescript.git
