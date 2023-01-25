@@ -19,3 +19,6 @@
 [submodule "programming/boo-typescript"]
 	path = programming/boo-typescript
 	url = https://github.com/BOO1980/boo-typescript.git
+[submodule "programming/boo-php"]
+	path = programming/boo-php
+	url = https://github.com/BOO1980/boo-php.git
