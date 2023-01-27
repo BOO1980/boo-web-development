@@ -22,3 +22,6 @@
 [submodule "programming/boo-php"]
 	path = programming/boo-php
 	url = https://github.com/BOO1980/boo-php.git
+[submodule "programming/boo-sass"]
+	path = programming/boo-sass
+	url = https://github.com/BOO1980/boo-sass.git
