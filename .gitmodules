@@ -25,3 +25,6 @@
 [submodule "programming/boo-sass"]
 	path = programming/boo-sass
 	url = https://github.com/BOO1980/boo-sass.git
+[submodule "programming/boo-node.js"]
+	path = programming/boo-node.js
+	url = https://github.com/BOO1980/boo-node.js.git
