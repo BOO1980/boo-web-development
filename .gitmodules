@@ -28,3 +28,6 @@
 [submodule "programming/boo-node.js"]
 	path = programming/boo-node.js
 	url = https://github.com/BOO1980/boo-node.js.git
+[submodule "programming/boo-json"]
+	path = programming/boo-json
+	url = https://github.com/BOO1980/boo-json.git
